@@ -26,7 +26,7 @@
           os                : 운영체제
           os_bit            : 운영체제 비트수
           graphic_card_gb   : 그래픽카드 용량(GB)
-          weight            : 노트북 무게(kg)
+          weight            : Casual or thinNlight
           display_size      : 화면 크기(inch)
           warranty          : 보증기간(년)
           Touchscreen       : 터치스크린 유무
