@@ -12,7 +12,7 @@
 
 ## I. Datasets
 + https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list
-+ 학습 데이터는 kaggle의 Datasets을 사용할 예정이며 두 개의 csv 파일이 주어지지만 컬럼의 종류가 달라 더 많은 정보를 제공하는 Cleaned_Laptop_data.csv를 사용할 예정입니다. 각 csv 파일은 23개의 Column으로 구성되어있습니다. 각각의 Column에 대한 정보는 다음과 같습니다.
++ 학습 데이터는 kaggle의 Datasets을 사용할 예정이며 두 개의 csv 파일이 주어지지만 Column의 종류가 달라 더 많은 정보를 제공하는 Cleaned_Laptop_data.csv를 사용할 예정입니다. 각 csv 파일은 23개의 Column으로 구성되어있습니다. 각각의 Column에 대한 정보는 다음과 같습니다.
 
           brand             : 노트북의 브랜드
           model             : 모델명
