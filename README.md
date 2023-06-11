@@ -1,6 +1,6 @@
 # AI_X_DEEPLEARNING
 
-### Title: LapTop ㅖrediction 
+### Title: LapTop Prediction 
 
 ### Members: 
           권범수, 컴퓨터학부
