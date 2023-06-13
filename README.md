@@ -79,6 +79,8 @@ y = wx + b 와 같은 수식은 단순 선형 회귀의 수식입니다. 독립 
 + Test 데이터의 예측값 중 소수가 다른 값과 약 100,000배 가량 차이나는 것을 확인할 수 있었는데 이는 해당 데이터의 결측치 문제로 인해 이상치가 생긴 것으로 판단하여 제거하였습니다.
 + MAE는 약 98로, 종속변수의 대부분이 30,000과 60,000 사이에 분포해있다는 것을 고려하면 매우 준수한 수치임을 알 수 있습니다. 본 문제의 데이터가 정형 데이터이고 변수의 수가 많지 않기 때문에 단순한 모델을 사용했고, 과적합이 일어나지 않은 것으로 판단됩니다. 해당 모델을 참고하여 소비자들이 노트북을 구매할 때 선명한 소비를 할 수 있으면 좋겠습니다. 
 
-### 권범수: Data Preprocessing, Blog Processing
+## Youtube Link : https://www.youtube.com/watch?v=kTGUYVGqUkQ
+
+### 권범수: Data Preprocessing, Blog Processing, Youtube Recording
 ### 정민호: Data Preprocessing, Code Implementation
           
